@@ -2,7 +2,7 @@
   "name": "dragon_store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edsont8.github.io/TCC_Frontend_ReactJS.io/",
+  "homepage": "https://edsont8.github.io/TCC_Frontend_ReactJS/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
