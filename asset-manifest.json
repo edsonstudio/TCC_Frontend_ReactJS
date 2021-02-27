@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/TCC_Frontend_ReactJS/static/css/main.88fb4d66.chunk.css",
-    "main.js": "/TCC_Frontend_ReactJS/static/js/main.bd225502.chunk.js",
-    "main.js.map": "/TCC_Frontend_ReactJS/static/js/main.bd225502.chunk.js.map",
-    "runtime-main.js": "/TCC_Frontend_ReactJS/static/js/runtime-main.92c3d434.js",
-    "runtime-main.js.map": "/TCC_Frontend_ReactJS/static/js/runtime-main.92c3d434.js.map",
-    "static/js/2.d6ce44b7.chunk.js": "/TCC_Frontend_ReactJS/static/js/2.d6ce44b7.chunk.js",
-    "static/js/2.d6ce44b7.chunk.js.map": "/TCC_Frontend_ReactJS/static/js/2.d6ce44b7.chunk.js.map",
-    "static/js/3.b52cd6b9.chunk.js": "/TCC_Frontend_ReactJS/static/js/3.b52cd6b9.chunk.js",
-    "static/js/3.b52cd6b9.chunk.js.map": "/TCC_Frontend_ReactJS/static/js/3.b52cd6b9.chunk.js.map",
+    "main.css": "/TCC_Frontend_ReactJS/static/css/main.5d799b27.chunk.css",
+    "main.js": "/TCC_Frontend_ReactJS/static/js/main.86f4b113.chunk.js",
+    "main.js.map": "/TCC_Frontend_ReactJS/static/js/main.86f4b113.chunk.js.map",
+    "runtime-main.js": "/TCC_Frontend_ReactJS/static/js/runtime-main.60fba8b1.js",
+    "runtime-main.js.map": "/TCC_Frontend_ReactJS/static/js/runtime-main.60fba8b1.js.map",
+    "static/js/2.a53f2be0.chunk.js": "/TCC_Frontend_ReactJS/static/js/2.a53f2be0.chunk.js",
+    "static/js/2.a53f2be0.chunk.js.map": "/TCC_Frontend_ReactJS/static/js/2.a53f2be0.chunk.js.map",
+    "static/js/3.42f5ba76.chunk.js": "/TCC_Frontend_ReactJS/static/js/3.42f5ba76.chunk.js",
+    "static/js/3.42f5ba76.chunk.js.map": "/TCC_Frontend_ReactJS/static/js/3.42f5ba76.chunk.js.map",
     "index.html": "/TCC_Frontend_ReactJS/index.html",
-    "static/css/main.88fb4d66.chunk.css.map": "/TCC_Frontend_ReactJS/static/css/main.88fb4d66.chunk.css.map",
-    "static/js/2.d6ce44b7.chunk.js.LICENSE.txt": "/TCC_Frontend_ReactJS/static/js/2.d6ce44b7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/TCC_Frontend_ReactJS/static/media/logo.6ce24c58.svg"
+    "static/css/main.5d799b27.chunk.css.map": "/TCC_Frontend_ReactJS/static/css/main.5d799b27.chunk.css.map",
+    "static/js/2.a53f2be0.chunk.js.LICENSE.txt": "/TCC_Frontend_ReactJS/static/js/2.a53f2be0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92c3d434.js",
-    "static/js/2.d6ce44b7.chunk.js",
-    "static/css/main.88fb4d66.chunk.css",
-    "static/js/main.bd225502.chunk.js"
+    "static/js/runtime-main.60fba8b1.js",
+    "static/js/2.a53f2be0.chunk.js",
+    "static/css/main.5d799b27.chunk.css",
+    "static/js/main.86f4b113.chunk.js"
   ]
 }
